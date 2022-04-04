@@ -136,30 +136,6 @@ void display()
 
 void main()
 {
-	/*insert(10);
-	insert(11);
-	insert(12);
-	insert(30);
-	insert(20);
-	insert(90);
-	insert(40);
-	insert(22);
-	insert(10010);
-	insert(20010);
-	insert(30010);
-	display();
-	del(40);
-	del(87);
-	/*printf("%d",hashTable[0]->data);
-	printf("%d",hashTable[1]->data);
-	printf("%d",hashTable[2]->data);
-	printf("%c",hashTable[4]);
-	printf("%d",hashTable[2]->data);
-	display();
-	search(20);
-	search(22);
-	search(10);
-	search(50);*/
 	printf("\t\tOPEN HASHING\n\n");
 	while(1)
 	{
